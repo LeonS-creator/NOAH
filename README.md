@@ -24,7 +24,7 @@ To run NOAH, you will need:
 ## Installation
 Install NOAH by cloning this repository and installing the required packages:
 ```bash
-git clone https://github.com/yourusername/NOAH.git
+git clone https://github.com/LeonS-creator/NOAH.git
 
 ```
 
