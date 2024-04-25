@@ -41,11 +41,3 @@ We welcome contributions to NOAH! If you have suggestions for improvements or wa
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-### Tips for an Effective README
-1. **Clarity and Brevity:** Clearly explain what the project does at the start. Keep descriptions concise but informative.
-2. **User-Centric:** Include instructions that are easy for users to follow, from setting up the project to using its features.
-3. **Visuals:** When appropriate, use diagrams or screenshots to help explain how the software works or how to set it up.
-4. **Community Engagement:** Encourage contributions by clearly explaining how others can help and what contribution guidelines they should follow.
